@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/f320bfbc-6737-4ce1-aefa-0d82213dd4dd
 ### Windows
 
 ```bash
-git clone https://github.com/0xOb5k-J/volatility3-mcp
+git clone https://github.com/Varshith-JV-1410/volatility3-mcp.git
 ```
 
 ```bash
