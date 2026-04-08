@@ -56,7 +56,7 @@ python3 setup_all.py
 
 ***Note: after executing `setup_all.py` download `mcp_server.py` from releases and place it in `%USERPROFILE%\volatility-mcp-server\src` folder (replace the original file with this)***
 
-***Link to download***: https://github.com/0xOb5k-J/volatility3-mcp/releases/download/mcp_server/mcp_server.py
+***Link to download***: [mcp_server.py](https://github.com/Varshith-JV-1410/volatility3-mcp/blob/main/releases/mcp_server.py)
 ## Configuration
 
 ### MCP Configuration for github co-pilot VS-code extension:
