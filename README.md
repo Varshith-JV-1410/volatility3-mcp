@@ -34,8 +34,7 @@ https://github.com/user-attachments/assets/f320bfbc-6737-4ce1-aefa-0d82213dd4dd
 | `analyze_error` | Analyze errors and provide solutions |
 | `suggest_plugins` | Get plugin suggestions based on analysis goal |
 | `batch_execute` | Execute multiple plugins in sequence |
-| `generate_documentation` | Create a new documentation file that AI can populate with content |
-| `create_documentation_content` | AI writes content to documentation file - full creative control |
+| `save_report` | Save a report or analysis notes to the reports directory |
 | `get_analysis_context` | Get complete analysis context for AI documentation |
 
 ## Installation
@@ -51,12 +50,8 @@ cd volatility3-mcp
 ```
 
 ```bash
-python3 setup_all.py
+python setup.py
 ```
-
-***Note: after executing `setup_all.py` download `mcp_server.py` from releases and place it in `%USERPROFILE%\volatility-mcp-server\src` folder (replace the original file with this)***
-
-***Link to download***: [mcp_server.py](https://github.com/Varshith-JV-1410/volatility3-mcp/blob/main/releases/mcp_server.py)
 ## Configuration
 
 ### MCP Configuration for github co-pilot VS-code extension:
